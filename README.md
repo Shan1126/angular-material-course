@@ -1,6 +1,4 @@
 
-## Angular Material Course
-
 This repository contains the code of the [Angular Material Course](https://angular-university.io/course/angular-material-course).
 
 This course repository is updated to Angular v11, and there is a  package-lock.json file available, for avoiding semantic versioning installation issues.
